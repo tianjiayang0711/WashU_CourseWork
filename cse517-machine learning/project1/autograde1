@@ -1,0 +1,21 @@
+
+This is your grade report from the Autograder ran on 31-Jan-2018 14:51:20. 
+For this project we ran 1 evaluation(s) on your committed code.
+
+	On the srm_evaluation you scored 0 points with our tests.
+	Unfortunately, you failed 12 test(s) on this evaluation:
+		Test 1: Logistic function does not pass checkgrad.Output argument "loss" (and maybe others) not assigned during call to "logistic".
+		Test 2: Logistic function does not pass sanity check #1.Output argument "loss" (and maybe others) not assigned during call to "logistic".
+		Test 3: Logistic function does not pass sanity check #2.Output argument "loss" (and maybe others) not assigned during call to "logistic".
+		Test 4: Ridge function does not pass checkgrad.Output argument "loss" (and maybe others) not assigned during call to "ridge".
+		Test 5: Hinge function does not pass checkgrad.Output argument "loss" (and maybe others) not assigned during call to "hinge".
+		Test 6: Gradient descent seems wrong - gradient is not zero at minimum!Output argument "w" (and maybe others) not assigned during call to "grdescent".
+		Test 7: Hinge gradient does not match solution.Output argument "loss" (and maybe others) not assigned during call to "hinge".
+		Test 8: Hinge function does not match solution.Output argument "loss" (and maybe others) not assigned during call to "hinge".
+		Test 9: Logistc gradient does not match solution.Output argument "loss" (and maybe others) not assigned during call to "logistic".
+		Test 10: Logistic function does not match solution.Output argument "loss" (and maybe others) not assigned during call to "logistic".
+		Test 11: Ridge gradient does not match solution.Output argument "loss" (and maybe others) not assigned during call to "ridge".
+		Test 12: Ridge function does not match solution.Output argument "loss" (and maybe others) not assigned during call to "ridge".
+
+
+For this project, you scored a total of 0 points.

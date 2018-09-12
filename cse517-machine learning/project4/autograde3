@@ -1,0 +1,22 @@
+
+This is your grade report from the Autograder ran on 25-Apr-2018 21:32:40. 
+For this project we ran 1 evaluation(s) on your committed code.
+
+	On the nn_evaluation you scored 0 points with our tests.
+	Unfortunately, you failed 6 test(s) on this evaluation:
+		incorrect preprocessingOutput argument "u" (and maybe others) not assigned during call to "preprocess".
+		deepnet.m does not pass checkgrad.Error using -
+Matrix dimensions must agree.
+		Incorrect forward pass as computedOutput argument "u" (and maybe others) not assigned during call to "preprocess".
+		Incorrect forward pass zs computedOutput argument "u" (and maybe others) not assigned during call to "preprocess".
+		Incorrect gradient computedUndefined function or variable 'as'.
+		Incorrect loss computed
+You ran into an error in the evaluation test: Output argument "w" (and maybe others) not assigned during call to "grdescent".
+
+Error in bostontest (line 40)
+ w=grdescent(f,w,STEPSIZE,ITER,1e-8);
+
+Error in grade
+
+
+For this project, you scored a total of 0 points.

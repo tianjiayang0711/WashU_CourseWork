@@ -1,0 +1,12 @@
+
+This is your grade report from the Autograder ran on 12-Feb-2018 04:00:26. 
+For this project we ran 1 evaluation(s) on your committed code.
+
+	On the srm_evaluation you scored 58 points with our tests.
+	Unfortunately, you failed 2 test(s) on this evaluation:
+		Test 5: Hinge function does not pass checkgrad.In an assignment  A(:) = B, the number of elements in A and B must be the same.
+		Test 8: Hinge function does not match solution.
+	Your implementation for srm was competitive! You scored 30 points based on the efficiency or quality of your code.
+
+
+For this project, you scored a total of 88 points.

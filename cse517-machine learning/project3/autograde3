@@ -1,0 +1,32 @@
+
+This is your grade report from the Autograder ran on 17-Mar-2018 11:08:57. 
+For this project we ran 2 evaluation(s) on your committed code.
+
+	On the kernel_evaluation you scored 0 points with our tests.
+	Unfortunately, you failed 9 test(s) on this evaluation:
+		Failed Test 1: RBF kernel between two identical data sets should return diagonals of all-ones. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 2: RBF kernel seems incorrect. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 3: Polynomial kernel with degree p=0 should return all-ones matrix. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 4: Polynomial kernel with degree p=1 should return linear kernel +1. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 5: Polynomial kernel is incorrect. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 6: Dimensions of RBF kernel function not correct. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 7-10: generateQP wrong Output argument "H" (and maybe others) not assigned during call to "generateQP".
+		Failed Test 11~13: Linear SVM classification using trainsvm and svmclassfy does not work Output argument "sv_i" (and maybe others) not assigned during call to "trainsvm".
+		Failed Test 14: bias incorrectOutput argument "bias" (and maybe others) not assigned during call to "recoverBias".
+
+	On the l2dist_evaluation you scored 0 points with our tests.
+	Unfortunately, you failed 11 test(s) on this evaluation:
+		Test  1 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+		Test  2 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+		Test  3 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+		Test  4 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+		Test  5 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+		Test  6 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+		Test  7 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+		Test  8 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+		Test  9 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+		Test 10 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+		Test 11 failed due to the following MATLAB error: Output argument "D" (and maybe others) not assigned during call to "l2distance".
+
+
+For this project, you scored a total of 0 points.

@@ -1,0 +1,31 @@
+
+This is your grade report from the Autograder ran on 21-Mar-2018 16:26:27. 
+For this project we ran 2 evaluation(s) on your committed code.
+
+	On the kernel_evaluation you scored 19 points with our tests.
+	Unfortunately, you failed 8 test(s) on this evaluation:
+		Failed Test 1: RBF kernel between two identical data sets should return diagonals of all-ones. Undefined function 'tranpose' for input arguments of type 'double'.
+		Failed Test 2: RBF kernel seems incorrect. Undefined function or variable 'END'.
+		Failed Test 3: Polynomial kernel with degree p=0 should return all-ones matrix. Undefined function or variable 'END'.
+		Failed Test 4: Polynomial kernel with degree p=1 should return linear kernel +1. Undefined function or variable 'END'.
+		Failed Test 5: Polynomial kernel is incorrect. Undefined function or variable 'END'.
+		Failed Test 6: Dimensions of RBF kernel function not correct. Undefined function 'tranpose' for input arguments of type 'double'.
+		Failed Test 11~13: Linear SVM classification using trainsvm and svmclassfy does not work Undefined function or variable 'END'.
+		Failed Test 14: bias incorrectOutput argument "bias" (and maybe others) not assigned during call to "recoverBias".
+
+	On the l2dist_evaluation you scored 0 points with our tests.
+	Unfortunately, you failed 11 test(s) on this evaluation:
+		Test  1 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+		Test  2 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+		Test  3 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+		Test  4 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+		Test  5 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+		Test  6 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+		Test  7 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+		Test  8 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+		Test  9 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+		Test 10 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+		Test 11 failed due to the following MATLAB error: Undefined function 'tranpose' for input arguments of type 'double'.
+
+
+For this project, you scored a total of 19 points.

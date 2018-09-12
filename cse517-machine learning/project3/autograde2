@@ -1,0 +1,18 @@
+
+This is your grade report from the Autograder ran on 15-Mar-2018 21:18:04. 
+For this project we ran 1 evaluation(s) on your committed code.
+
+	On the kernel_evaluation you scored 0 points with our tests.
+	Unfortunately, you failed 9 test(s) on this evaluation:
+		Failed Test 1: RBF kernel between two identical data sets should return diagonals of all-ones. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 2: RBF kernel seems incorrect. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 3: Polynomial kernel with degree p=0 should return all-ones matrix. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 4: Polynomial kernel with degree p=1 should return linear kernel +1. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 5: Polynomial kernel is incorrect. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 6: Dimensions of RBF kernel function not correct. Output argument "K" (and maybe others) not assigned during call to "computeK".
+		Failed Test 7-10: generateQP wrong Output argument "H" (and maybe others) not assigned during call to "generateQP".
+		Failed Test 11~13: Linear SVM classification using trainsvm and svmclassfy does not work Output argument "sv_i" (and maybe others) not assigned during call to "trainsvm".
+		Failed Test 14: bias incorrectOutput argument "bias" (and maybe others) not assigned during call to "recoverBias".
+
+
+For this project, you scored a total of 0 points.
